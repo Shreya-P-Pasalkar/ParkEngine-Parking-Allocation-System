@@ -1,0 +1,12 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//  Step 10 : Create PaymentStrategy class
+//  It is used to create a class PaymentStrategy 
+//  It supports different types of payment methods
+//  Concepts : Strategy Design Pattern
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Common contract for all payment methods
+interface PaymentStrategy
+{
+    void pay(double amount);
+} // End of PaymentStrategy
