@@ -235,4 +235,4 @@ Enter your choice :
 - Build a GUI version
 
 ## Author
-Shreya Pasalkar
+Shreya Pramod Pasalkar
