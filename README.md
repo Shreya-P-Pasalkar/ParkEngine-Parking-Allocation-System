@@ -34,7 +34,7 @@ A console-based (CUI) parking lot system built in Java to demonstrate object-ori
 - **Composition:** a `ParkingSpot` holds a `Vehicle`, a `ParkingTicket` holds a vehicle, floor and spot
 
 ## Class Diagram
-![ParkingEngine Class Diagram].(docs/ParkEngine_ClassDiagram.jpg).
+![ParkingEngine Class Diagram].(docs/ParkEngine_ClassDiagram.jpg)
 
 ## Project Structure
 ```
